@@ -1,7 +1,7 @@
 # Alicia
 Alice compatible PCB - Opensource based of RP2040 IC
 
-![PCB](Assets/detail.png)
+![PCB](Assets/detail.jpg)
 
 ![KLE](Assets/layout.png)
 
